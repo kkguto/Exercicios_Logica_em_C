@@ -1,0 +1,5 @@
+Gustavo, 6,00
+thais, 10,00
+joao, 7,00
+amanda, 12,00
+paulo, 4,00
